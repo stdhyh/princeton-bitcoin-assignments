@@ -1,1 +1,5 @@
-Assignments of course: [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
+- There are 3 assignments of the course: [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
+	- Scrooge Coin
+	- Consensus from Trust
+	- Block Chain
+- Relevant [Lecture Resouces](https://piazza.com/princeton/spring2015/btctech/resources)
